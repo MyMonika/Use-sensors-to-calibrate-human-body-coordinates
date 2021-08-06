@@ -5,9 +5,12 @@
 
 同时，这也是我初步学习完《head first in 设计模式》对于所学到的几种设计模式的一个初步的应用；所使用的传感器链接为https://www.alubi.cn/support/download/ ,openZen的官方库为https://bitbucket.org/lpresearch/openzen/src/master/
 
+其中。C++矩阵运算库Eigen由于文件个数，我并没有上传，有需要的可以自行下载
+
 
 Obtain sensor data based on the LPMS sensor (and the official openZen library), and at the same time, based on the value of the sensor, perform the coordinate matrix conversion of the world coordinate system, the sensor coordinate system, and the human body coordinate system to calibrate the human posture.
 
 (I reproduced part of the thesis "Research on Human Motion Capture and Recognition Based on Wearable Sensors" by Dr. Liu Yutao of Harbin Institute of Technology during the summer vacation. There are still a small number of errors in matrix conversion between different coordinate systems. Will be corrected in step-by-step learning)
 
 At the same time, this is also a preliminary application of the several design patterns I have learned after the preliminary study of "head first in design patterns".
+However，I didn’t upload the C++ matrix calculation library Eigen due to the number of files. You can download it if you need it.
